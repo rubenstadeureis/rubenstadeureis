@@ -8,7 +8,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubenstadeureis&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenstadeureis&layout=compact)](https://github.com/rubenstadeureis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenstadeureis&layout=dark)](https://github.com/rubenstadeureis/github-readme-stats)
 
 
